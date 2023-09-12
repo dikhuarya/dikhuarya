@@ -2,7 +2,7 @@
 - 👀 I’m interested in  game.
 - 🌱 I’m currently learning unity ,C#.
 - 💞️ I’m looking to collaborate on unity.
-- 📫 How to reach me ...
+  
 
 <!---
 dikhuarya/dikhuarya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
